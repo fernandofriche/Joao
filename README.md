@@ -1,4 +1,4 @@
-# Ibrahim Hiarea Portfolio
+# Joao Pedro Portfolio
 
 This repository contains a portfolio project built using React.js and Vite. The portfolio showcases my skills, projects, and experience as a developer.
 
@@ -40,6 +40,4 @@ To deploy the portfolio, you can use any hosting platform that supports static w
 
 Follow the deployment instructions provided by your chosen platform to publish your portfolio online.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request to the repository.
